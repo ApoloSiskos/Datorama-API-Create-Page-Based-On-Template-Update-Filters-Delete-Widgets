@@ -1,3 +1,9 @@
 Python script that uses the Datorama API.
-It duplicates a page (info of the existing page is given in a JSON format). Then it updates the page filters (Campaign key, Date range etc).
-There is also an option to delete specific widgets. 
+There are several files (scripts) that do the following:
+
+- It duplicates a page (info of the existing page is given in a JSON format). 
+- It updates the page filters (Campaign key, Date range etc).
+- It reprocesses data streams.
+- It deletes page widgets.
+- It creates a data stream based on an existing one.
+ 
